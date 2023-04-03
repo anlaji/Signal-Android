@@ -9,3 +9,5 @@
   - Compress chat and files into ZIP
     - Compress chat and files into a ZIP file
 
+- Branch: add_export_chats_feature
+- Pull request was denied
