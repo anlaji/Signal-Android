@@ -8,6 +8,21 @@ Currently available on the Play store and [signal.org](https://signal.org/androi
 
 <a href='https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
 
+# New Chat Export Feature
+- Signal Android Chat Export Option
+  - Download chat content in XML format
+    - Select time period for chat download
+    - Save chat in XML file
+  - Option to download shared files
+    - Attach files in ZIP folder
+  - Option to add HTML viewer
+    - Show chat in HTML viewer
+  - Compress chat and files into ZIP
+    - Compress chat and files into a ZIP file
+
+- Branch: add_export_chats_feature
+- Pull request was denied
+
 ## Contributing Bug reports
 We use GitHub for bug tracking. Please search the existing issues for your bug and create a new one if the issue is not yet tracked!
 
